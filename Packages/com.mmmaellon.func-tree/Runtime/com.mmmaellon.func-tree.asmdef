@@ -1,5 +1,5 @@
 {
-  "name": "com.mmmaellon.lower-case-name",
+  "name": "com.mmmaellon.func-tree",
   "references": [
     "VRC.SDK3",
     "VRC.SDKBase",
