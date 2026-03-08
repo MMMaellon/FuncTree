@@ -13,7 +13,7 @@ Differences from Udon
 ## Status
 
 This project is still WIP and probably doesn't work yet. I don't recommend using this project until all the checkboxes below are checked.
- - [ ] Graph rendering
- - [ ] Udon Bytecode compiler
- - [ ] Hello World
+ - [ ] Graph view working
+ - [ ] Udon bytecode compiler working
+ - [ ] Hello World example
  - [ ] Actually usable
